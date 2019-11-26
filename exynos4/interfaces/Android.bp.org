@@ -1,0 +1,4 @@
+subdirs = [
+    "gralloc",
+    "livedisplay/1.0",
+]
